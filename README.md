@@ -26,5 +26,4 @@ The Exploratory Data Analysis (EDA) performed includes:
 ## How to Use
 
 1. Clone the repository: 
-   ```bash
-   git clone git clone https://github.com/yourusername/Collecting-and-Analysing-Weather-Data-Using-APIs.git
+      git clone https://github.com/AHSANATIQ98/Collecting-and-Analysing-Weather-Data-Using-APIs.git
